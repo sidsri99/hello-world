@@ -1,13 +1,15 @@
 # hello-world
 Getting started to Github
 
+<pre>
+
 /*Hello world program in Java*/
 public class Hello{
   public static void main(String args[]){
     System.out.println("Hello World");
   }
 }
-
+</h2>
 /*Hello world program in C*/
 #include <stdio.h>
 int main()
@@ -40,14 +42,16 @@ class Hello
 }
 
 /*Hello World program in PHP*/
-<!DOCTYPE html>
-<html>
-  <head>
-     <title>Hello</title>
-  </head>
-  <body>
-    <?php
+&lt;!DOCTYPE html>
+&lt;html>
+  &lt;head>
+     &lt;title>Hello&lt;/title>
+  &lt;/head>
+  &lt;body>
+    &lt;?php
       echo "Hello World!";
     ?>
-  </body>
-</html>
+  &lt;/body>
+&lt;/html>
+
+</pre>
