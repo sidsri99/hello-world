@@ -1,5 +1,6 @@
-# hello-world
-Getting started to Github
+## Started using Github with Hello World repository containing Hello World programs of some of the programming languages.
+
+### Below are some Hello World programs in different programming languages
 
 <pre>
 
@@ -9,7 +10,7 @@ public class Hello{
     System.out.println("Hello World");
   }
 }
-</h2>
+
 /*Hello world program in C*/
 #include &lt;stdio.h>
 int main()
